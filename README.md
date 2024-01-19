@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diwash
 ==============================================================================================================================
 
+* 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Personal website](http://myportfolio-c8591.web.app/)
 * ✉️  You can contact me at [raidiwash30@gmail.com](mailto:raidiwash30@gmail.com)
 
