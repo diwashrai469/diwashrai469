@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Nepal
 * 🌍  Currently learning Python
-* 🖥️  See my portfolio at [Personal website](http://myportfolio-c8591.web.app/)
+* 🖥️  See my portfolio at [Personal website](https://www.raidiwash.com.np/)
 * ✉️  You can contact me at [raidiwash30@gmail.com](mailto:raidiwash30@gmail.com)
 
 ### Skills
