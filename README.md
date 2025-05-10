@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in Australia
-* 🌍  Currently learning Kotlin
-* 🖥️  See my portfolio at [Personal website](https://www.raidiwash.com.np/)
+* 🌍  Currently learning Python
 * ✉️  You can contact me at [raidiwash30@gmail.com](mailto:raidiwash30@gmail.com)
 
 ### Skills
