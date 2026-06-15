@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in Australia
-* 🌍  Currently learning Python
+* 🌍  Currently learning SwiftUI
 * ✉️  You can contact me at [raidiwash30@gmail.com](mailto:raidiwash30@gmail.com)
 
 ### Skills
